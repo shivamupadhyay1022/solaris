@@ -1,0 +1,6 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C58U074K7EFNSJQ0A2B0").setAdvancedMatchingAvailableProperties({"email":true,"phone_number":true,"auto_email":false,"auto_phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C58U074K7EFNSJQ0A2B0").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C58U074K7EFNSJQ0A2B0").setPixelInfo({status: 0, name: "MM - TikTok - Global", advertiserID: "6987027677655941121", setupMode: 1, partner: "", is_onsite: false });
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("solaris.com");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);
+window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie && window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie(true);
